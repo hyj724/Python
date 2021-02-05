@@ -1,6 +1,6 @@
-Method 1: Json
-In this json document, words are case-sensitive. For example, you cannot get the definition of America when you input "america". 
-So I consider different occasions in order to get the correct result.
+# Method 1: Json
+# In this json document, words are case-sensitive. For example, you cannot get the definition of America when you input "america". 
+# So I consider different occasions in order to get the correct result.
 
 import json
 from difflib import get_close_matches
